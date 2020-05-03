@@ -1,0 +1,15 @@
+panels:
+  example:
+    temp: {}
+  panel-1:
+    temp: {}
+  panel-2:
+    temp:
+      PinkDirt:
+        material: GRASS_BLOCK
+        name: §1Skyblock
+        enchanted: welcome
+      EmployedByGod:
+        material: WHITE_STAINED_GLASS
+        stack: 64
+        name: ''

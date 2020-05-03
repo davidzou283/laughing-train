@@ -1,0 +1,12 @@
+panels:
+  panel-2:
+    perm: default
+    rows: 6
+    title: '&8Generated panel-2'
+    command: panel-2
+    empty: BLACK_STAINED_GLASS_PANE
+    item:
+      '9':
+        material: WHITE_STAINED_GLASS
+        stack: 64
+        name: ''
